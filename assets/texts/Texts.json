@@ -1,0 +1,7 @@
+{
+	"Menu.Options": {
+		"Portuguese": ["Um Jogador", "Linguagem"],
+		"English": ["Single Player", "Language"]
+	},
+	"Settings.Options.Languages": ["Portuguese", "English"]
+}
